@@ -63,5 +63,5 @@ To reduce [CLS](https://web.dev/cls/), you can preload the font in the `head` of
 | ExtraBold Wide | ExtraBold Wide Italic | 800 | 125 |
 | Black Wide | Black Wide Italic | 900 | 125 |
 
-## License
+# License
 Mona Sans is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL).
